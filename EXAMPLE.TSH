@@ -1,0 +1,4 @@
+VAR i = 0
+WHILE(i = 0) THEN
+    PRINT("Haha")
+END
